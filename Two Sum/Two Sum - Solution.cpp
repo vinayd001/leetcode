@@ -7,6 +7,6 @@ public:
                     return vector<int>{i,j};
             }
         }
-        throw "No two sum solution";  // here replacement of return
+        throw "No two sum solution";
     }
 };
